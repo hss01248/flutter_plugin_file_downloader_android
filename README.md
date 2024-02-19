@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ```yaml
   base_api_response_flutter: ^0.0.1
-  file_downloader: ^1.0.0
+  file_downloader_android: ^1.0.0
 ```
 
 
